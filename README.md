@@ -8,6 +8,8 @@ You can also support me by sending a BitCoin donation to the following address:
 
 19JXFGfRUV4NedS5tBGfJhkfRrN2EQtxVo
 
+![](https://raw.githubusercontent.com/PREngineer/AppImgs/main/btc-qr.png)
+
 # JavaScript Widgets
 
 This is a collection of JavaScript widgets that can be embedded into web applications.
